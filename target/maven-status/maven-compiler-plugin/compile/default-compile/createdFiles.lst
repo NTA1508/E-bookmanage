@@ -1,0 +1,15 @@
+com\entity\BookDtls.class
+com\user\servlet\LogoutServlet.class
+com\DAO\UserDAO.class
+com\mycompany\fisrtproject\resources\JavaEE8Resource.class
+com\DAO\UserDAOImp.class
+com\admin\servlet\BooksAdd.class
+com\DB\DBConnect.class
+com\admin\servlet\DeleteBook.class
+com\entity\User.class
+com\mycompany\fisrtproject\JAXRSConfiguration.class
+com\user\servlet\RegisterServlet.class
+com\DAO\BookDAOImp.class
+com\admin\servlet\EditBook.class
+com\DAO\BookDAO.class
+com\user\servlet\LoginServlet.class
